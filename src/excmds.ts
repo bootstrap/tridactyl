@@ -3485,8 +3485,6 @@ export function firefoxsyncpull() {
  *
  * It does not merge your configurations: it overwrites.
  *
- * NB: [[unset]] and [[reset]] settings cannot be synchronised. You may instead use [[sanitise]]: `sanitise tridactylsync` then `firefoxsyncpush`.
- *
  * Also see [[firefoxsyncpull]].
  */
 //#background
