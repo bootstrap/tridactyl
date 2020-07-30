@@ -246,7 +246,7 @@ omnibox.init()
 // }}}
 
 
-setTimeout(config.update, 500)
+setTimeout(config.update, 5000)
 
 commands.updateListener()
 
